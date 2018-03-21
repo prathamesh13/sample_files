@@ -15,9 +15,9 @@
             "stringValue" : ""
         }
       }, {
-        "name" : "altColor1",
+        "name" : "#003366",
         "value" : 0,
-        "description" : "indeed light green for android",
+        "description" : "indeed dark blue for android",
         "payload" : {
             "stringValue" : "#99ff33"
         }
