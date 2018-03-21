@@ -15,7 +15,7 @@
             "stringValue" : ""
         }
       }, {
-        "name" : "#003366",
+        "name" : "altColor1",
         "value" : 0,
         "description" : "indeed dark blue for android",
         "payload" : {
