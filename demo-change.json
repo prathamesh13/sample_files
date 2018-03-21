@@ -17,9 +17,9 @@
       }, {
         "name" : "altColor1",
         "value" : 0,
-        "description" : "indeed pink for android",
+        "description" : "indeed light green for android",
         "payload" : {
-            "stringValue" : "#ff69b4"
+            "stringValue" : "#99ff33"
         }
       }, {
         "name" : "altColor2",
